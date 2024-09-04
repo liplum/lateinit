@@ -20,7 +20,11 @@
     "type": "git",
     "url": "git+https://github.com/liplum/lateinit.js.git"
   },
-  "keywords": [],
+  "keywords": [
+    "lateinit",
+    "lazy",
+    "lazy-evaluate"
+  ],
   "author": "Liplum <Li_plum@outlook.com>",
   "bugs": {
     "url": "https://github.com/liplum/lateinit.js/issues"
